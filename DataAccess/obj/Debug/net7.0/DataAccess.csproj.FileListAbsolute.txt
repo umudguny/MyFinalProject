@@ -1,0 +1,15 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\FinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
